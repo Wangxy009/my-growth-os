@@ -1,0 +1,5 @@
+growth-os.sqlite
+growth-os.sqlite-shm
+growth-os.sqlite-wal
+.env.local
+.DS_Store
